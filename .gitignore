@@ -1,1 +1,14 @@
 .DS_Store
+.env
+.venv
+__pycache__/
+*.pyc
+node_modules/
+frontend/dist/
+backend/.env
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+mobile_app/.dart_tool/
+mobile_app/build/
